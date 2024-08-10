@@ -1,0 +1,19 @@
+{
+  "name": "postman-to-swagger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "api-spec-transformer": "^0.2.6",
+    "express": "^4.19.2",
+    "js-yaml": "^4.1.0",
+    "postman-to-openapi": "^3.0.1",
+    "postman-to-swagger": "github:tecfu/postman-to-swagger"
+  }
+}
